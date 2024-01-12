@@ -3,12 +3,12 @@ body {
 }
 
 .nav {
-    background-color: black;
+    color: black;
     overflow: hidden;
 }
 
 .nav a {
-    float: left;
+    float: right;
     color: white;
     text-align: right;
     padding: 14px 16px;
